@@ -1,4 +1,4 @@
-## Welcome PyClustering Homepage
+## Welcome 
 
 PyClustering is a Python, C/C++ data-mining library. The library mostly focused on cluster analysis, visualization, oscillatory networks and other data-analysis algorithms and methods.
 
