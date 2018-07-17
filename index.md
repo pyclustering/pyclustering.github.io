@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Welcome PyClustering Homepage
 
-You can use the [editor on GitHub](https://github.com/pyclustering/pyclustering.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+PyClustering is a Python, C/C++ data-mining library. The library mostly focused on cluster analysis, visualization, oscillatory networks and other data-analysis algorithms and methods.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pyclustering/pyclustering.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Official repository: https://github.com/annoviko/pyclustering
+Official pypi page: https://pypi.org/project/pyclustering/
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+In case of any questions, proposals or bugs related to the pyclustering please contact to pyclustering@yandex.ru or create an issue on [here](https://github.com/annoviko/pyclustering/issues/new).
+
+### Cite the Library
+
+If you are using pyclustering library in a scientific paper, please, cite the library.
+
+BibTeX entry:
+```
+@misc{andrei_novikov_2018_1254845,
+    author       = {Andrei Novikov},
+    title        = {annoviko/pyclustering: pyclustering 0.8.1 release},
+    month        = may,
+    year         = 2018,
+    doi          = {10.5281/zenodo.1254845},
+    url          = {https://doi.org/10.5281/zenodo.1254845}
+}
+```
