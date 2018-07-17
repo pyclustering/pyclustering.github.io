@@ -2,8 +2,11 @@ theme: jekyll-theme-cayman
 title: pyclustering
 description: Python, C++ data mining (clustering, oscillatory networks, neural networks, etc.) library
 show_downloads: true
+repository_url: https://github.com/annoviko/pyclustering
+url: https://github.com/annoviko/pyclustering
 github:
-  repository_url: https://github.com/annoviko
+  url: https://github.com/annoviko/pyclustering
+  repository_url: https://github.com/annoviko/pyclustering
   repository_name: pyclustering library
   clone_url: https://github.com/annoviko/pyclustering.git
   releases_url: https://github.com/annoviko/pyclustering/releases
