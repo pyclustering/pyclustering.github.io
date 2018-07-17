@@ -3,7 +3,7 @@ title: pyclustering
 description: Python, C++ data mining (clustering, oscillatory networks, neural networks, etc.) library
 show_downloads: true
 github:
-  repository_url: https://github.com/annoviko/pyclustering
+  repository_url: https://github.com/annoviko
   repository_name: pyclustering library
   clone_url: https://github.com/annoviko/pyclustering.git
   releases_url: https://github.com/annoviko/pyclustering/releases
