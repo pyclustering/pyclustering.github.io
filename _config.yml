@@ -1,4 +1,5 @@
-title: PyClustering Homepage
 theme: jekyll-theme-cayman
+title: PyClustering Library
+description: Python, C++ data mining library
 github:
   repository_url: https://github.com/annoviko/pyclustering
