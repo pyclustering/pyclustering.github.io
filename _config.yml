@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-architect
 title: pyclustering
 description: Python, C++ data mining (clustering, oscillatory networks, neural networks, etc.) library
 show_downloads: true
