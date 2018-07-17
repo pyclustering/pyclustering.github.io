@@ -1,4 +1,4 @@
 title: PyClustering Homepage
 theme: jekyll-theme-cayman
-zip_url: https://github.com/annoviko/pyclustering/archive/0.8.1.zip
-hostname: https://github.com/annoviko/pyclustering
+github:
+  repository_url: https://github.com/annoviko/pyclustering
