@@ -1,24 +1,33 @@
 ## Introduction
 
-pyclustering is an open source Python, C++ data-mining library under General Public License 3. The library provides tools for cluster analysis, data visualization and contains oscillatory network models.
+**pyclustering** is an open source Python, C++ data-mining library under General Public License 3. The library provides tools for cluster analysis, data visualization and contains oscillatory network models.
 
 pyclustering provides Python and C++ implementation almost for each algorithm, method, etc. C++ implementation is used by default to increase performance if it is supported by target platform (Windows 32, 64 bits, Linux 32, 64 bits) otherwise Python implementation is used.
 
 C++ part of the pyclustering library so-called ‘ccore’ is independent from python and does not uses any other third-party libraries to increase compatibility and portability. The C++ part is implemented using pure C++14 and can be easily embedded into your own project using source code or as a shared library.
 
-### News
+## Install
 
-*May 2018*. pyclustering 0.8.1 is available for download. Introduced [changes](https://github.com/annoviko/pyclustering/releases/tag/0.8.1).
+Installation using pip3 tool:
+```bash
+$ pip3 install pyclustering
+```
 
-*February 2018*. pyclustering 0.8.0 is available for download. Introduced [changes](https://github.com/annoviko/pyclustering/releases/tag/0.8.0).
+## Latest News
 
-*October 2018*. pyclustering 0.7.0 is available for download. Introduced [changes](https://github.com/annoviko/pyclustering/releases/tag/0.7.0).
+**May 2018**. pyclustering 0.8.1 is available for download. Introduced [changes](https://github.com/annoviko/pyclustering/releases/tag/0.8.1).
 
-### Support or Contact
+**February 2018**. pyclustering 0.8.0 is available for download. Introduced [changes](https://github.com/annoviko/pyclustering/releases/tag/0.8.0).
+
+**October 2017**. pyclustering 0.7.0 is available for download. Introduced [changes](https://github.com/annoviko/pyclustering/releases/tag/0.7.0).
+
+**October 2016**. pyclustering 0.6.6 is available for download. Introduced [changes](https://github.com/annoviko/pyclustering/releases/tag/0.6.6).
+
+## Support or Contact
 
 In case of any questions, proposals or bugs related to the pyclustering please contact to pyclustering@yandex.ru or create an issue on [here](https://github.com/annoviko/pyclustering/issues/new).
 
-### Cite the Library
+## Cite the Library
 
 If you are using pyclustering library in a scientific paper, please, cite the library.
 
