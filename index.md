@@ -25,7 +25,7 @@ $ pip3 install pyclustering
 
 ## Support or Contact
 
-In case of any questions, proposals or bugs related to the pyclustering please contact to pyclustering@yandex.ru or create an issue on [here](https://github.com/annoviko/pyclustering/issues/new).
+In case of any questions, proposals or bugs related to the pyclustering please contact to pyclustering@yandex.ru or create an issue [here](https://github.com/annoviko/pyclustering/issues/new).
 
 ## Cite the Library
 
