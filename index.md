@@ -1,4 +1,4 @@
-## Introduction
+## PyClustering
 
 **pyclustering** is an open source Python, C++ data-mining library under General Public License 3. The library provides tools for cluster analysis, data visualization and contains oscillatory network models.
 
