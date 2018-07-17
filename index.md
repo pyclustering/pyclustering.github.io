@@ -2,9 +2,9 @@
 
 PyClustering is a Python, C/C++ data-mining library. The library mostly focused on cluster analysis, visualization, oscillatory networks and other data-analysis algorithms and methods.
 
-Official repository: https://github.com/annoviko/pyclustering
+Official repository: [https://github.com/annoviko/pyclustering](https://github.com/annoviko/pyclustering)
 
-Official pypi page: https://pypi.org/project/pyclustering/
+Official pypi page: [https://pypi.org/project/pyclustering](https://pypi.org/project/pyclustering)
 
 ### Support or Contact
 
