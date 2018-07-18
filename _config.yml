@@ -2,6 +2,7 @@ theme: jekyll-theme-architect
 title: pyclustering
 description: Python, C++ data mining library
 show_downloads: true
+google_analytics: UA-122464132-1
 github:
   owner_name: annoviko
   owner_url: https://github.com/annoviko
