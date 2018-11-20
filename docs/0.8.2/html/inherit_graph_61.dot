@@ -1,0 +1,8 @@
+digraph "Graphical Class Hierarchy"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="pyclustering.nnet.hhn.central\l_element",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/db8/classpyclustering_1_1nnet_1_1hhn_1_1central__element.html",tooltip="Central element consist of two central neurons that are described by a little bit different dynamic t..."];
+}
