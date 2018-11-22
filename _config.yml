@@ -17,7 +17,7 @@ github:
   is_user_page: false
   is_project_page: true
 
- navbar-links:
+navbar-links:
   About Me: "aboutme"
   Resources:
     - GitHub Pages: "https://pages.github.com/"
