@@ -16,9 +16,3 @@ github:
   tar_url: https://github.com/annoviko/pyclustering/releases/download/0.8.2/pyclustering-0.8.2-binaries-all.tar.gz
   is_user_page: false
   is_project_page: true
-
-navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - GitHub Pages: "https://pages.github.com/"
-  Documentation: "https://pyclustering.github.io/docs/0.8.2/html/index.html"
