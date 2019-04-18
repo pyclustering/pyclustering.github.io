@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$da/d1c/classpyclustering_1_1container_1_1cftree_1_1cfnode.html" title="Representation of node of CF&#45;Tree. " alt="" coords="5,35,233,61"/>
+<area shape="rect" id="node2" href="$d2/d65/classpyclustering_1_1container_1_1cftree_1_1leaf__node.html" title="Represents clustering feature leaf node. " alt="" coords="281,5,527,32"/>
+<area shape="rect" id="node3" href="$d7/d25/classpyclustering_1_1container_1_1cftree_1_1non__leaf__node.html" title="Representation of clustering feature non&#45;leaf node. " alt="" coords="299,57,509,98"/>
+</map>

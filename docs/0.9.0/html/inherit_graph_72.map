@@ -1,0 +1,14 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d5/d9f/classpyclustering_1_1nnet_1_1network.html" title="Common network description that consists of information about oscillators and connection between them..." alt="" coords="5,177,176,203"/>
+<area shape="rect" id="node2" href="$dc/d73/classpyclustering_1_1nnet_1_1fsync_1_1fsync__network.html" title="Model of oscillatory network that uses Landau&#45;Stuart oscillator and Kuramoto model as a synchronizati..." alt="" coords="252,5,445,47"/>
+<area shape="rect" id="node3" href="$de/dec/classpyclustering_1_1nnet_1_1hhn_1_1hhn__network.html" title="Oscillatory Neural Network with central element based on Hodgkin&#45;Huxley neuron model. " alt="" coords="263,71,434,112"/>
+<area shape="rect" id="node4" href="$dd/dea/classpyclustering_1_1nnet_1_1hysteresis_1_1hysteresis__network.html" title="Hysteresis oscillatory network that uses relaxation oscillators that are represented by objective hys..." alt="" coords="224,136,473,177"/>
+<area shape="rect" id="node6" href="$d4/dc2/classpyclustering_1_1nnet_1_1legion_1_1legion__network.html" title="Local excitatory global inhibitory oscillatory network (LEGION) that uses relaxation oscillator based..." alt="" coords="250,201,447,243"/>
+<area shape="rect" id="node7" href="$d0/da2/classpyclustering_1_1nnet_1_1pcnn_1_1pcnn__network.html" title="Model of oscillatory network that is based on the Eckhorn model. " alt="" coords="256,267,441,308"/>
+<area shape="rect" id="node8" href="$db/de3/classpyclustering_1_1nnet_1_1sync_1_1sync__network.html" title="Model of oscillatory network that is based on the Kuramoto model of synchronization. " alt="" coords="256,332,441,373"/>
+<area shape="rect" id="node5" href="$df/df9/classpyclustering_1_1gcolor_1_1hysteresis_1_1hysteresisgcolor.html" title="Class represents graph coloring algorithm based on hysteresis oscillatory network. " alt="" coords="521,143,815,170"/>
+<area shape="rect" id="node9" href="$d4/d98/classpyclustering_1_1cluster_1_1syncnet_1_1syncnet.html" title="Class represents clustering algorithm SyncNet. " alt="" coords="551,289,785,315"/>
+<area shape="rect" id="node11" href="$d5/d98/classpyclustering_1_1gcolor_1_1sync_1_1syncgcolor.html" title="Oscillatory network based on Kuramoto model with negative and positive connections for graph coloring..." alt="" coords="553,339,783,366"/>
+<area shape="rect" id="node12" href="$d8/d08/classpyclustering_1_1nnet_1_1syncpr_1_1syncpr.html" title="Model of phase oscillatory network for pattern recognition that is based on the Kuramoto model..." alt="" coords="565,390,771,417"/>
+<area shape="rect" id="node10" href="$d5/d0a/classpyclustering_1_1cluster_1_1hsyncnet_1_1hsyncnet.html" title="Class represents clustering algorithm HSyncNet. " alt="" coords="863,289,1111,315"/>
+</map>

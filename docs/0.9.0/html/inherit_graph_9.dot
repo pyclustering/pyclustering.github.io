@@ -1,0 +1,12 @@
+digraph "Graphical Class Hierarchy"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="pyclustering.cluster.bsas.bsas",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/d8b/classpyclustering_1_1cluster_1_1bsas_1_1bsas.html",tooltip="Class represents BSAS clustering algorithm - basic sequential algorithmic scheme. ..."];
+  Node0 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="pyclustering.cluster.mbsas.mbsas",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/da9/classpyclustering_1_1cluster_1_1mbsas_1_1mbsas.html",tooltip="Class represents MBSAS (Modified Basic Sequential Algorithmic Scheme). "];
+  Node0 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pyclustering.cluster.ttsas.ttsas",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/db9/classpyclustering_1_1cluster_1_1ttsas_1_1ttsas.html",tooltip="Class represents TTSAS (Two-Threshold Sequential Algorithmic Scheme). "];
+}
