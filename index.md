@@ -49,7 +49,7 @@ BibTeX entry:
     number      = {36},
     pages       = {1230},
     author      = {Andrei Novikov},
-    title       = {{PyClustering}: Data Mining Library},
+    title       = {PyClustering: Data Mining Library},
     journal     = {Journal of Open Source Software}
 }
 ```
