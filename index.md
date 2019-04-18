@@ -17,6 +17,8 @@ $ pip3 install pyclustering
 
 **April 2019**. pyclustering 0.9.0 is available for download. [[Changes]](https://github.com/annoviko/pyclustering/releases/tag/0.9.0) [[Download]](https://files.pythonhosted.org/packages/38/d5/21bf39b855a8720173541fda04a8fdab087595d5317e7043d72cd0de08e8/pyclustering-0.9.0.tar.gz) [[Documentation]](https://pyclustering.github.io/docs/0.9.0/html/index.html).
 
+**April 2019**. Article "PyClustering: Data Mining Library" is published in The Journal of Open Source Software [[Download]](https://www.theoj.org/joss-papers/joss.01230/10.21105.joss.01230.pdf).
+
 **November 2018**. pyclustering 0.8.2 is available for download. [[Changes]](https://github.com/annoviko/pyclustering/releases/tag/0.8.2) [[Download]](https://files.pythonhosted.org/packages/3c/e5/3be27187d430d1c921d32e08355068fde3a0f5897b80145930f00d701461/pyclustering-0.8.2.tar.gz) [[Documentation]](https://pyclustering.github.io/docs/0.8.2/html/index.html).
 
 **May 2018**. pyclustering 0.8.1 is available for download. [[Changes]](https://github.com/annoviko/pyclustering/releases/tag/0.8.1) [[Download]](https://files.pythonhosted.org/packages/45/e2/e5b3cd92fb6dbb6539bdacbbf88593b93e728eb8ea3b832f137dc591709c/pyclustering-0.8.1.tar.gz).
