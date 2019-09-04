@@ -1,0 +1,26 @@
+var classpyclustering_1_1nnet_1_1hhn_1_1hhn__parameters =
+[
+    [ "__init__", "da/d72/classpyclustering_1_1nnet_1_1hhn_1_1hhn__parameters.html#a0ca834c1256031f96007e1b9555b04b7", null ],
+    [ "alfa_excitatory", "da/d72/classpyclustering_1_1nnet_1_1hhn_1_1hhn__parameters.html#adf9bffc785c8bc6ba2fe29aae78973b9", null ],
+    [ "alfa_inhibitory", "da/d72/classpyclustering_1_1nnet_1_1hhn_1_1hhn__parameters.html#ab3706ced1b9060770948cfd5a7c730aa", null ],
+    [ "betta_excitatory", "da/d72/classpyclustering_1_1nnet_1_1hhn_1_1hhn__parameters.html#a6e3b6e9f29d68de234dff83cd54d1bb2", null ],
+    [ "betta_inhibitory", "da/d72/classpyclustering_1_1nnet_1_1hhn_1_1hhn__parameters.html#ac698fa240863fee29a4e8b74ad94b846", null ],
+    [ "deltah", "da/d72/classpyclustering_1_1nnet_1_1hhn_1_1hhn__parameters.html#a33429340944f1f0169f306f8780fc467", null ],
+    [ "eps", "da/d72/classpyclustering_1_1nnet_1_1hhn_1_1hhn__parameters.html#a59283dc4022783bc63bd25452d8a2bf1", null ],
+    [ "gK", "da/d72/classpyclustering_1_1nnet_1_1hhn_1_1hhn__parameters.html#a93b792a252e0ec856e2414dc9764dc41", null ],
+    [ "gL", "da/d72/classpyclustering_1_1nnet_1_1hhn_1_1hhn__parameters.html#a13698f27be0ecbdb8350e409fa6d22a9", null ],
+    [ "gNa", "da/d72/classpyclustering_1_1nnet_1_1hhn_1_1hhn__parameters.html#a3fc1950a874b75d8929e267eb4747b3a", null ],
+    [ "Icn1", "da/d72/classpyclustering_1_1nnet_1_1hhn_1_1hhn__parameters.html#ac3179223fb136031f41aabe161698995", null ],
+    [ "Icn2", "da/d72/classpyclustering_1_1nnet_1_1hhn_1_1hhn__parameters.html#aaa5ea68dce0719e8262eaca8aa92fdfd", null ],
+    [ "nu", "da/d72/classpyclustering_1_1nnet_1_1hhn_1_1hhn__parameters.html#a67a10168f25e0f4107c2f1552f9f2065", null ],
+    [ "threshold", "da/d72/classpyclustering_1_1nnet_1_1hhn_1_1hhn__parameters.html#a5d7e4a2d4a3e61fc368667201e9bc4b5", null ],
+    [ "vK", "da/d72/classpyclustering_1_1nnet_1_1hhn_1_1hhn__parameters.html#a76d1afa8a0669514d308cac0b2401061", null ],
+    [ "vL", "da/d72/classpyclustering_1_1nnet_1_1hhn_1_1hhn__parameters.html#a3a85151b81cea60624478373b7bd2ba1", null ],
+    [ "vNa", "da/d72/classpyclustering_1_1nnet_1_1hhn_1_1hhn__parameters.html#aa548e35e1d41af7ccbe6c722eef6629d", null ],
+    [ "vRest", "da/d72/classpyclustering_1_1nnet_1_1hhn_1_1hhn__parameters.html#ac92cd3befda21fb5c97b762c6bb4cad2", null ],
+    [ "Vsynexc", "da/d72/classpyclustering_1_1nnet_1_1hhn_1_1hhn__parameters.html#ac9884e0196737015c159526a7a3e171e", null ],
+    [ "Vsyninh", "da/d72/classpyclustering_1_1nnet_1_1hhn_1_1hhn__parameters.html#a5ccf29231e111865785e1b567a26981c", null ],
+    [ "w1", "da/d72/classpyclustering_1_1nnet_1_1hhn_1_1hhn__parameters.html#a25a85bf8d33aad794544d095447a3ce9", null ],
+    [ "w2", "da/d72/classpyclustering_1_1nnet_1_1hhn_1_1hhn__parameters.html#a6ec72e5b9612826ea5d5b6c0f9c24e34", null ],
+    [ "w3", "da/d72/classpyclustering_1_1nnet_1_1hhn_1_1hhn__parameters.html#a159496f27e728dd92962b0fe78bf33a7", null ]
+];

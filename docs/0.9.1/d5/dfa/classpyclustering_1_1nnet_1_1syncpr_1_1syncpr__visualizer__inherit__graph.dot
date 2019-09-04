@@ -1,0 +1,9 @@
+digraph "pyclustering.nnet.syncpr.syncpr_visualizer"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node0 [label="pyclustering.nnet.syncpr.syncpr\l_visualizer",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="pyclustering.nnet.sync.sync\l_visualizer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d86/classpyclustering_1_1nnet_1_1sync_1_1sync__visualizer.html",tooltip="Visualizer of output dynamic of sync network (Sync). "];
+}
