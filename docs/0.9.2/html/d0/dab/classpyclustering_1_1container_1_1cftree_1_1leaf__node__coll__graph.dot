@@ -1,0 +1,9 @@
+digraph "pyclustering.container.cftree.leaf_node"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node2 [label="pyclustering.container.cftree.leaf_node",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pyclustering.container.cftree.cfnode",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d1c/classpyclustering_1_1container_1_1cftree_1_1cfnode.html",tooltip="Representation of node of CF-Tree. "];
+}

@@ -1,0 +1,18 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$d5/d58/classpyclustering_1_1cluster_1_1agglomerative_1_1type__link.html" title="Enumerator of types of link between clusters. " alt="" coords="137,5,413,32"/>
+<area shape="rect" id="node3" href="$d4/d22/classpyclustering_1_1cluster_1_1ema_1_1ema__init__type.html" title="Enumeration of initialization types for Expectation&#45;Maximization algorithm. " alt="" coords="178,57,371,98"/>
+<area shape="rect" id="node4" href="$d5/d41/classpyclustering_1_1cluster_1_1encoder_1_1type__encoding.html" title="Enumeration of encoding types (index labeling, index list separation, object list separation)..." alt="" coords="167,122,382,163"/>
+<area shape="rect" id="node5" href="$db/d80/classpyclustering_1_1cluster_1_1silhouette_1_1silhouette__ksearch__type.html" title="Defines algorithms that can be used to find optimal number of cluster using Silhouette method..." alt="" coords="147,187,402,229"/>
+<area shape="rect" id="node6" href="$dc/d4b/classpyclustering_1_1cluster_1_1xmeans_1_1splitting__type.html" title="Enumeration of splitting types that can be used as splitting creation of cluster in X&#45;Means algorithm..." alt="" coords="141,253,408,280"/>
+<area shape="rect" id="node7" href="$d2/d23/classpyclustering_1_1container_1_1cftree_1_1cfnode__type.html" title="Enumeration of CF&#45;Node types that are used by CF&#45;Tree. " alt="" coords="144,304,405,331"/>
+<area shape="rect" id="node8" href="$d6/d8b/classpyclustering_1_1container_1_1cftree_1_1measurement__type.html" title="Enumeration of measurement types for CF&#45;Tree. " alt="" coords="124,355,425,381"/>
+<area shape="rect" id="node9" href="$d8/d71/classpyclustering_1_1nnet_1_1cnn_1_1type__conn.html" title="Enumeration of connection types for Chaotic Neural Network. " alt="" coords="169,405,380,432"/>
+<area shape="rect" id="node10" href="$d9/d7b/classpyclustering_1_1nnet_1_1conn__represent.html" title="Enumerator of internal network connection representation between oscillators. " alt="" coords="198,457,351,498"/>
+<area shape="rect" id="node11" href="$d7/d90/classpyclustering_1_1nnet_1_1conn__type.html" title="Enumerator of connection types between oscillators. " alt="" coords="182,523,367,549"/>
+<area shape="rect" id="node12" href="$d2/d10/classpyclustering_1_1nnet_1_1initial__type.html" title="Enumerator of types of oscillator output initialization. " alt="" coords="181,573,368,600"/>
+<area shape="rect" id="node13" href="$d5/d6b/classpyclustering_1_1nnet_1_1solve__type.html" title="Enumerator of solver types that are used for network simulation. " alt="" coords="181,624,369,651"/>
+<area shape="rect" id="node14" href="$da/d42/classpyclustering_1_1nnet_1_1som_1_1type__conn.html" title="Enumeration of connection types for SOM. " alt="" coords="167,675,382,701"/>
+<area shape="rect" id="node15" href="$df/d7b/classpyclustering_1_1nnet_1_1som_1_1type__init.html" title="Enumeration of initialization types for SOM. " alt="" coords="173,725,376,752"/>
+<area shape="rect" id="node16" href="$dc/dee/classpyclustering_1_1utils_1_1graph_1_1type__graph__descr.html" title="Enumeration of graph description. " alt="" coords="182,777,367,818"/>
+<area shape="rect" id="node17" href="$da/d3a/classpyclustering_1_1utils_1_1metric_1_1type__metric.html" title="Enumeration of supported metrics in the module for distance calculation between two points..." alt="" coords="180,842,369,883"/>
+</map>

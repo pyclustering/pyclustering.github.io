@@ -1,0 +1,7 @@
+<map id="pyclustering.nnet.sync.sync_network" name="pyclustering.nnet.sync.sync_network">
+<area shape="rect" id="node3" href="$d4/d98/classpyclustering_1_1cluster_1_1syncnet_1_1syncnet.html" title="Class represents clustering algorithm SyncNet. " alt="" coords="457,5,692,32"/>
+<area shape="rect" id="node5" href="$d5/d98/classpyclustering_1_1gcolor_1_1sync_1_1syncgcolor.html" title="Oscillatory network based on Kuramoto model with negative and positive connections for graph coloring..." alt="" coords="459,56,690,83"/>
+<area shape="rect" id="node6" href="$d8/d08/classpyclustering_1_1nnet_1_1syncpr_1_1syncpr.html" title="Model of phase oscillatory network for pattern recognition that is based on the Kuramoto model..." alt="" coords="471,107,678,133"/>
+<area shape="rect" id="node2" href="$d5/d9f/classpyclustering_1_1nnet_1_1network.html" title="Common network description that consists of information about oscillators and connection between them..." alt="" coords="5,56,176,83"/>
+<area shape="rect" id="node4" href="$d5/d0a/classpyclustering_1_1cluster_1_1hsyncnet_1_1hsyncnet.html" title="Class represents clustering algorithm HSyncNet. " alt="" coords="740,5,989,32"/>
+</map>
