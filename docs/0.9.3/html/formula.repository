@@ -1,0 +1,49 @@
+\form#0:\[CF=\left ( N, \overrightarrow{LS}, SS \right )\]
+\form#1:\[ \vec{m}_{C_{k}}^{new}=\frac{ \left ( n_{C_{k}^{new}} - 1 \right )\vec{m}_{C_{k}}^{old} + \vec{x} }{n_{C_{k}^{new}}} \]
+\form#2:\[p_{i}=\frac{D(x_{i})}{\sum_{j=0}^{N}D(x_{j})}\]
+\form#3:$D(x_{i})$
+\form#4:$i$
+\form#5:\[N_{blocks} = intervals^{dimensions}\]
+\form#6:\[Elbow_{k} = \frac{\left ( y_{0} - y_{1} \right )x_{k} + \left ( x_{1} - x_{0} \right )y_{k} + \left ( x_{0}y_{1} - x_{1}y_{0} \right )}{\sqrt{\left ( x_{1} - x_{0} \right )^{2} + \left ( y_{1} - y_{0} \right )^{2}}}\]
+\form#7:\[w_{ij}=\frac{1}{\sum_{k=0}^{c}\left ( \frac{\left \| x_{i}-c_{j} \right \|}{\left \| x_{i}-c_{k} \right \|} \right )^{\frac{2}{m-1}}}\]
+\form#8:\[c_{k}=\frac{\sum_{i=0}^{N}w_{k}\left ( x_{i} \right )^{m}x_{i}}{\sum_{i=0}^{N}w_{k}\left ( x_{i} \right )^{m}}\]
+\form#9:\[error=\sum_{i=0}^{N}distance(x_{i}-center(x_{i}))\]
+\form#10:\[ x_{i}^{*}=\frac{\left \langle x_{i}, v \right \rangle}{\left \| v \right \|^{2}}. \]
+\form#11:\[s\left ( i \right )=\frac{ b\left ( i \right ) - a\left ( i \right ) }{ max\left \{ a\left ( i \right ), b\left ( i \right ) \right \}}\]
+\form#12:$a\left ( i \right )$
+\form#13:$b\left ( i \right )$
+\form#14:\[BIC(\theta) = L(D) - \frac{1}{2}pln(N)\]
+\form#15:$p$
+\form#16:$K - 1$
+\form#17:$MK$
+\form#18:\[p = (K - 1) + MK + 1\]
+\form#19:\[L(D) = n_jln(n_j) - n_jln(N) - \frac{n_j}{2}ln(2\pi) - \frac{n_jd}{2}ln(\hat{\sigma}^2) - \frac{n_j - K}{2}\]
+\form#20:\[\hat{\sigma}^2 = \frac{1}{N - K}\sum\limits_{j}\sum\limits_{i}||x_{ij} - \hat{C}_j||^2\]
+\form#21:\[Z = \frac{\sigma^2 \sqrt{2K} }{N}(\sqrt{2K} + \beta) + W - \sigma^2 + \frac{2\alpha\sigma}{\sqrt{N}}\sqrt{\frac{\alpha^2\sigma^2}{N} + W - \left(1 - \frac{K}{N}\right)\frac{\sigma^2}{2}} + \frac{2\alpha^2\sigma^2}{N}\]
+\form#22:$\alpha$
+\form#23:$\beta$
+\form#24:\[W = \frac{1}{n_j}\sum\limits_{i}||x_{ij} - \hat{C}_j||\]
+\form#25:\[\hat{\sigma}^2 = \frac{1}{N - K}\sum\limits_{j}\sum\limits_{i}||x_{ij} - \hat{C}_j||\]
+\form#26:\[error=\sum_{i=0}^{N}euclidean_square_distance(x_{i}-center(x_{i}))\]
+\form#27:\[ \dot{z}_{i} = (i\omega_{i} + \rho^{2}_{i} - |z_{i}|^{2} )z_{i} + \frac{1}{N}\sum_{j=0}^{N}k_{ij}(z_{j} - z_{i}); \]
+\form#28:\[ r_{c}=\frac{1}{Ne^{i\varphi }}\sum_{j=0}^{N}e^{i\theta_{j}}; \]
+\form#29:$\varphi$
+\form#30:$N$
+\form#31:\[ r_{c}=\left | \sum_{i=0}^{N} \frac{1}{N_{i}} \sum_{j=0}e^{ \theta_{j} - \theta_{i} } \right |; \]
+\form#32:$N_{i}$
+\form#33:$pi$
+\form#34:\[Y = 0.2989R + 0.587G + 0.114B\]
+\form#35:\[ dist(a, b) = \sqrt{ \sum_{i=0}^{N}(b_{i} - a_{i})^{2}) }; \]
+\form#36:\[ dist(a, b) = \sqrt{ \sum_{i=0}^{N}(a_{i} - b_{i})^{2} }; \]
+\form#37:\[ dist(a, b) = \sum_{i=0}^{N}(a_{i} - b_{i})^{2}; \]
+\form#38:\[ dist(a, b) = \sum_{i=0}^{N}\left | a_{i} - b_{i} \right |; \]
+\form#39:\[ dist(a, b) = \max_{}i\left (\left | a_{i} - b_{i} \right |\right ); \]
+\form#40:\[ dist(a, b) = \sqrt[p]{ \sum_{i=0}^{N}\left(a_{i} - b_{i}\right)^{p} }; \]
+\form#41:\[ dist(a, b) = \sum_{i=0}^{N}\frac{\left | a_{i} - b_{i} \right |}{\left | a_{i} \right | + \left | b_{i} \right |}; \]
+\form#42:\[ dist(a, b) = \sum_{i=0}^{N}\frac{\left ( a_{i} - b_{i} \right )^{2}}{\left | a_{i} \right | + \left | b_{i} \right |}; \]
+\form#43:\[ dist\left ( a, b \right )=\frac{1}{p}\sum_{i=0}^{p}\frac{\left | a_{i} - b_{i} \right |}{R_{i}}, \]
+\form#44:$R_{i}$
+\form#45:$R$
+\form#46:\[ R=max\left ( X \right )-min\left ( X \right ) \]
+\form#47:$N - n$
+\form#48:\[\approx 2n\ln \left (\frac{N}{n} \right)\]

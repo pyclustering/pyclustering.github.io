@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$db/d8b/classpyclustering_1_1cluster_1_1bsas_1_1bsas.html" title="Class represents BSAS clustering algorithm &#45; basic sequential algorithmic scheme. ..." alt="" coords="5,31,204,57"/>
+<area shape="rect" id="node2" href="$da/da9/classpyclustering_1_1cluster_1_1mbsas_1_1mbsas.html" title="Class represents MBSAS (Modified Basic Sequential Algorithmic Scheme). " alt="" coords="252,5,473,32"/>
+<area shape="rect" id="node3" href="$df/db9/classpyclustering_1_1cluster_1_1ttsas_1_1ttsas.html" title="Class represents TTSAS (Two&#45;Threshold Sequential Algorithmic Scheme). " alt="" coords="262,56,463,83"/>
+</map>

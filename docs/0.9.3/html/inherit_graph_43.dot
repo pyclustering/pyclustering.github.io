@@ -1,0 +1,8 @@
+digraph "Graphical Class Hierarchy"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="pyclustering.cluster.optics.optics\l_descriptor",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/d0f/classpyclustering_1_1cluster_1_1optics_1_1optics__descriptor.html",tooltip="Object description that used by OPTICS algorithm for cluster analysis. "];
+}
