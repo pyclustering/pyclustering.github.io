@@ -15,6 +15,8 @@ $ pip3 install pyclustering
 
 ## Latest News
 
+**August 2020**. pyclustering 0.10.0.1 is available for download. [[Changes]](https://github.com/annoviko/pyclustering/releases/tag/0.10.0.1) [[Download]](https://files.pythonhosted.org/packages/e4/4b/abf4b42963e6a67dfdd85781d63e9fc4b488805aa2bbe5ba57f91a2758e0/pyclustering-0.10.0.1.tar.gz) [[Documentation]](https://pyclustering.github.io/docs/0.10.0/html/index.html).
+
 **December 2019**. pyclustering 0.9.3 is available for download. [[Changes]](https://github.com/annoviko/pyclustering/releases/tag/0.9.3) [[Download]](https://files.pythonhosted.org/packages/da/35/6d91651c5d584d38ee2b825a5dddac19e3c8e5c3535fd6f8873f0818b32f/pyclustering-0.9.3.tar.gz) [[Documentation]](https://pyclustering.github.io/docs/0.9.3/html/index.html).
 
 **October 2019**. pyclustering 0.9.2 is available for download. [[Changes]](https://github.com/annoviko/pyclustering/releases/tag/0.9.2) [[Download]](https://files.pythonhosted.org/packages/a8/77/13fe5d100c07a8c8ba06aa37608604573b1e9cb75a94016ab3882f4bf895/pyclustering-0.9.2.tar.gz) [[Documentation]](https://pyclustering.github.io/docs/0.9.2/html/index.html).
