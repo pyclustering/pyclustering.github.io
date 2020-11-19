@@ -1,0 +1,4 @@
+<map id="pyclustering.cluster.syncnet.syncnet_visualizer" name="pyclustering.cluster.syncnet.syncnet_visualizer">
+<area shape="rect" id="node1" title="Visualizer of output dynamic of oscillatory network &#39;syncnet&#39; for cluster analysis." alt="" coords="5,95,264,136"/>
+<area shape="rect" id="node2" href="$dc/d86/classpyclustering_1_1nnet_1_1sync_1_1sync__visualizer.html" title="Visualizer of output dynamic of sync network (Sync)." alt="" coords="33,5,236,47"/>
+</map>

@@ -1,0 +1,9 @@
+digraph "Graphical Class Hierarchy"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="pyclustering.cluster.encoder.cluster\l_encoder",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d02/classpyclustering_1_1cluster_1_1encoder_1_1cluster__encoder.html",tooltip="Provides service to change clustering result representation."];
+}

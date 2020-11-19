@@ -1,0 +1,9 @@
+digraph "Graphical Class Hierarchy"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="pyclustering.nnet.cnn.cnn\l_network",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/da3/classpyclustering_1_1nnet_1_1cnn_1_1cnn__network.html",tooltip="Chaotic neural network based on system of logistic map where clustering phenomenon can be observed."];
+}

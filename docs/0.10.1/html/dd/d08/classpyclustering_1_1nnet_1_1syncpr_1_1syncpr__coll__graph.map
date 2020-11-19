@@ -1,0 +1,5 @@
+<map id="pyclustering.nnet.syncpr.syncpr" name="pyclustering.nnet.syncpr.syncpr">
+<area shape="rect" id="node1" title="Model of phase oscillatory network for pattern recognition that is based on the Kuramoto model." alt="" coords="5,169,233,196"/>
+<area shape="rect" id="node2" href="$db/de3/classpyclustering_1_1nnet_1_1sync_1_1sync__network.html" title="Model of oscillatory network that is based on the Kuramoto model of synchronization." alt="" coords="18,80,221,121"/>
+<area shape="rect" id="node3" href="$d5/d9f/classpyclustering_1_1nnet_1_1network.html" title="Common network description that consists of information about oscillators and connection between them..." alt="" coords="23,5,215,32"/>
+</map>

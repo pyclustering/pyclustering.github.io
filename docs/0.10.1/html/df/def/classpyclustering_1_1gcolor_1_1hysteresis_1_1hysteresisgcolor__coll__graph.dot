@@ -1,0 +1,12 @@
+digraph "pyclustering.gcolor.hysteresis.hysteresisgcolor"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="pyclustering.gcolor.hysteresis.hysteresisgcolor",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="Class represents graph coloring algorithm based on hysteresis oscillatory network."];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pyclustering.nnet.hysteresis.hysteresis\l_network",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/dea/classpyclustering_1_1nnet_1_1hysteresis_1_1hysteresis__network.html",tooltip="Hysteresis oscillatory network that uses relaxation oscillators that are represented by objective hys..."];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pyclustering.nnet.network",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d9f/classpyclustering_1_1nnet_1_1network.html",tooltip="Common network description that consists of information about oscillators and connection between them..."];
+}

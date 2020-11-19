@@ -1,0 +1,9 @@
+digraph "Graphical Class Hierarchy"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="pyclustering.cluster.clique.coordinate\l_iterator",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/ddb/classpyclustering_1_1cluster_1_1clique_1_1coordinate__iterator.html",tooltip="Coordinate iterator is used to generate logical location description for each CLIQUE block."];
+}

@@ -1,0 +1,4 @@
+<map id="pyclustering.nnet.sync.sync_network" name="pyclustering.nnet.sync.sync_network">
+<area shape="rect" id="node1" title="Model of oscillatory network that is based on the Kuramoto model of synchronization." alt="" coords="5,80,208,121"/>
+<area shape="rect" id="node2" href="$d5/d9f/classpyclustering_1_1nnet_1_1network.html" title="Common network description that consists of information about oscillators and connection between them..." alt="" coords="11,5,203,32"/>
+</map>

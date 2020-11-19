@@ -1,0 +1,6 @@
+<map id="pyclustering.nnet.sync.sync_dynamic" name="pyclustering.nnet.sync.sync_dynamic">
+<area shape="rect" id="node1" title="Represents output dynamic of Sync." alt="" coords="5,71,208,112"/>
+<area shape="rect" id="node2" href="$da/d8f/classpyclustering_1_1cluster_1_1syncnet_1_1syncnet__analyser.html" title="Performs analysis of output dynamic of the oscillatory network syncnet to extract information about c..." alt="" coords="256,5,515,47"/>
+<area shape="rect" id="node3" href="$d5/d9e/classpyclustering_1_1gcolor_1_1sync_1_1syncgcolor__analyser.html" title="Analyser of output dynamic of the oscillatory network syncgcolor." alt="" coords="259,71,512,112"/>
+<area shape="rect" id="node4" href="$d3/deb/classpyclustering_1_1nnet_1_1syncpr_1_1syncpr__dynamic.html" title="Represents output dynamic of syncpr (Sync for Pattern Recognition)." alt="" coords="271,136,499,177"/>
+</map>

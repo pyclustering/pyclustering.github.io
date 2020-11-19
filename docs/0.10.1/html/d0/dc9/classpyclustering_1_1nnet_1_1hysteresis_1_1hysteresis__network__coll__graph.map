@@ -1,0 +1,4 @@
+<map id="pyclustering.nnet.hysteresis.hysteresis_network" name="pyclustering.nnet.hysteresis.hysteresis_network">
+<area shape="rect" id="node1" title="Hysteresis oscillatory network that uses relaxation oscillators that are represented by objective hys..." alt="" coords="5,80,283,121"/>
+<area shape="rect" id="node2" href="$d5/d9f/classpyclustering_1_1nnet_1_1network.html" title="Common network description that consists of information about oscillators and connection between them..." alt="" coords="48,5,240,32"/>
+</map>

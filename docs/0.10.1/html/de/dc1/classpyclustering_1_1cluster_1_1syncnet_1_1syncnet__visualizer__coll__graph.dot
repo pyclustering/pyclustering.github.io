@@ -1,0 +1,10 @@
+digraph "pyclustering.cluster.syncnet.syncnet_visualizer"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="pyclustering.cluster.syncnet.syncnet\l_visualizer",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="Visualizer of output dynamic of oscillatory network 'syncnet' for cluster analysis."];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pyclustering.nnet.sync.sync\l_visualizer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d86/classpyclustering_1_1nnet_1_1sync_1_1sync__visualizer.html",tooltip="Visualizer of output dynamic of sync network (Sync)."];
+}

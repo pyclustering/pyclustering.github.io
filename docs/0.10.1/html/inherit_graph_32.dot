@@ -1,0 +1,9 @@
+digraph "Graphical Class Hierarchy"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="pyclustering.cluster.ga.ga\l_observer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/dcf/classpyclustering_1_1cluster_1_1ga_1_1ga__observer.html",tooltip="Genetic algorithm observer that is used to collect information about clustering process on each itera..."];
+}

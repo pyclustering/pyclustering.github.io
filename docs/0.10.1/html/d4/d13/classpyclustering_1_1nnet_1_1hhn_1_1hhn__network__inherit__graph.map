@@ -1,0 +1,4 @@
+<map id="pyclustering.nnet.hhn.hhn_network" name="pyclustering.nnet.hhn.hhn_network">
+<area shape="rect" id="node1" title="Oscillatory Neural Network with central element based on Hodgkin&#45;Huxley neuron model." alt="" coords="6,80,197,121"/>
+<area shape="rect" id="node2" href="$d5/d9f/classpyclustering_1_1nnet_1_1network.html" title="Common network description that consists of information about oscillators and connection between them..." alt="" coords="5,5,197,32"/>
+</map>

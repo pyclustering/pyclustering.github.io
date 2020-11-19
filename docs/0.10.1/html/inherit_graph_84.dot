@@ -1,0 +1,9 @@
+digraph "Graphical Class Hierarchy"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="pyclustering.nnet.syncsegm.syncsegm\l_visualizer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/dae/classpyclustering_1_1nnet_1_1syncsegm_1_1syncsegm__visualizer.html",tooltip="Result visualizer of double-layer oscillatory network 'syncsegm'."];
+}

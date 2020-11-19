@@ -1,0 +1,6 @@
+<map id="pyclustering.cluster.hsyncnet.hsyncnet" name="pyclustering.cluster.hsyncnet.hsyncnet">
+<area shape="rect" id="node1" title="Class represents clustering algorithm HSyncNet." alt="" coords="5,244,280,271"/>
+<area shape="rect" id="node2" href="$d4/d98/classpyclustering_1_1cluster_1_1syncnet_1_1syncnet.html" title="Class represents clustering algorithm SyncNet." alt="" coords="13,169,272,196"/>
+<area shape="rect" id="node3" href="$db/de3/classpyclustering_1_1nnet_1_1sync_1_1sync__network.html" title="Model of oscillatory network that is based on the Kuramoto model of synchronization." alt="" coords="41,80,244,121"/>
+<area shape="rect" id="node4" href="$d5/d9f/classpyclustering_1_1nnet_1_1network.html" title="Common network description that consists of information about oscillators and connection between them..." alt="" coords="47,5,239,32"/>
+</map>

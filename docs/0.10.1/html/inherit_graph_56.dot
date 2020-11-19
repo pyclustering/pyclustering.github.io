@@ -1,0 +1,9 @@
+digraph "Graphical Class Hierarchy"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="pyclustering.container.kdtree.kdtree\l_visualizer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/d38/classpyclustering_1_1container_1_1kdtree_1_1kdtree__visualizer.html",tooltip="KD-tree visualizer that provides service to display graphical representation of the tree using matplo..."];
+}
