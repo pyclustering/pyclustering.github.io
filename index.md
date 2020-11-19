@@ -1,10 +1,10 @@
 ## PyClustering
 
-**pyclustering** is an open source Python, C++ data-mining library under General Public License 3. The library provides tools for cluster analysis, data visualization and contains oscillatory network models.
+**pyclustering** is an open source Python, C++ data-mining library under BSD-3-Clause License. The library provides tools for cluster analysis, data visualization and contains oscillatory network models.
 
 pyclustering provides Python and C++ implementation almost for each algorithm, method, etc. C++ implementation is used by default to increase performance if it is supported by target platform (Windows 32, 64 bits, Linux 32, 64 bits, MacOS 64 bites) otherwise Python implementation is used.
 
-C++ part of the pyclustering library so-called ‘ccore’ is independent from python and does not uses any other third-party libraries to increase compatibility and portability. The C++ part is implemented using pure C++14 and can be easily embedded into your own project using source code or as a shared library.
+C++ part of the pyclustering library is independent from python and does not uses any other third-party libraries to increase compatibility and portability. The C++ part is implemented using pure C++14 and can be easily embedded into your own project using source code or as a shared library.
 
 ## Install
 
@@ -14,6 +14,8 @@ $ pip3 install pyclustering
 ```
 
 ## Latest News
+
+**November 2020**. pyclustering 0.10.1 is available for download. [[Changes]](https://github.com/annoviko/pyclustering/releases/tag/0.10.1) [[Download]](https://files.pythonhosted.org/packages/9b/72/d3e0ce4ab50cc6f56f168f68fcaa384c4f2e6d1a38c0597ff280bdd61f51/pyclustering-0.10.1.tar.gz) [[Documentation]](https://pyclustering.github.io/docs/0.10.1/html/index.html).
 
 **August 2020**. pyclustering 0.10.0.1 is available for download. [[Changes]](https://github.com/annoviko/pyclustering/releases/tag/0.10.0.1) [[Download]](https://files.pythonhosted.org/packages/e4/4b/abf4b42963e6a67dfdd85781d63e9fc4b488805aa2bbe5ba57f91a2758e0/pyclustering-0.10.0.1.tar.gz) [[Documentation]](https://pyclustering.github.io/docs/0.10.0/html/index.html).
 
