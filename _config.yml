@@ -12,7 +12,7 @@ github:
   clone_url: https://github.com/annoviko/pyclustering.git
   releases_url: https://github.com/annoviko/pyclustering/releases
   issues_url: https://github.com/annoviko/pyclustering/issues
-  zip_url: https://github.com/annoviko/pyclustering/releases/download/0.10.0.1/pyclustering-0.10.0.1.tar.gz
-  tar_url: https://github.com/annoviko/pyclustering/releases/download/0.10.0.1/pyclustering-0.10.0.1.tar.gz
+  zip_url: https://github.com/annoviko/pyclustering/releases/download/0.10.1.1/pyclustering-0.10.1.1.tar.gz
+  tar_url: https://github.com/annoviko/pyclustering/releases/download/0.10.1.1/pyclustering-0.10.1.1.tar.gz
   is_user_page: false
   is_project_page: true
